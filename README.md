@@ -1,4 +1,4 @@
-#Port Scanner
+# Port Scanner
 This is a simple Java-based Port Scanner application that allows you to scan a range of ports on a specified target IP address. The application is built using Java Swing for the user interface and Java networking libraries for the actual port scanning functionality.
 
 Features
